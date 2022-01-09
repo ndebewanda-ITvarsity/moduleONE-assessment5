@@ -1,0 +1,31 @@
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="menu">
+<a href="index.html">HOME</a>
+<a href="about.html">ABOUT</a>
+<a href="contact.html">CONTACT</a>
+</div>
+
+<center><span style="color:#6495ed"><h2>CAPTAIN AMERICA</h2> </span></center>
+<div class="gallery">
+<img src="images/avengers_05.jpg"/>
+<h4> BIO</h4>
+<p><b> Full Name</b>:Captain America AKA Steve Rogers</p>
+<p><b>Place Of Birth</b>:New York</p>
+<p><b>Allignment</b>:Good</p>
+<p><b>Gender</b>:Male</p>
+<p><b>Race</b>:Mutant/White</p>
+<br/>
+<h4> Power Status</h4>
+<p><b>Intellegence</b>:90%</p>
+<p><b>Strength</b>:100%</p>
+<p><b>Speed</b>:92%</p>
+<p><b>Durability</b>:100%</p>
+<p><b>Power</b>:100%</p>
+<p><b>Combat</b>:85%</p>
+<a href="index.html">back to home</a>
+
+

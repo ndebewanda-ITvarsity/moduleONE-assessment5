@@ -1,0 +1,31 @@
+<!DICTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="menu">
+<a href="index.html">HOME</a>
+<a href="about.html">ABOUT</a>
+<a href="contact.html">CONTACT</a>
+</div>
+
+center><span style="color:#6495ed"><h2>Iron Man</h2> </span></center>
+<div class= "gallery">
+<img src="images/avengers_02.jpg"/>
+<h4> BIO</h4>
+<p><b> Full Name</b>: Iron Man AKA Anthony Edward "Tony" Stark</p>
+<p><b>Place Of Birth</b>:Long Island,NY</p>
+<p><b>Allignment</b>:Good</p>
+<p><b>Gender</b>:Male</p>
+<p><b>Race</b>:Human/White</p>
+<br/>
+<h4> Power Status</h4>
+<p><b>Intellegence</b>:100%</p>
+<p><b>Strength</b>:79%</p>
+<p><b>Speed</b>:65%</p>
+<p><b>Durability</b>:80%</p>
+<p><b>Power</b>:90%</p>
+<p><b>Combat</b>:85%</p>
+
+<a href="index.html">back to home</a>
